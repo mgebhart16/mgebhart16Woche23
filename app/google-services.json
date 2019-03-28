@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "320842873512",
+    "firebase_url": "https://mgebhart16woche23.firebaseio.com",
+    "project_id": "mgebhart16woche23",
+    "storage_bucket": "mgebhart16woche23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320842873512:android:c6b45513d02c75f4",
+        "android_client_info": {
+          "package_name": "com.example.mgebhart16woche23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320842873512-7r6g9giqpuad0an8bja56fpgoucig4bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mgebhart16woche23",
+            "certificate_hash": "a8bf38e05e315461672bc76a23ad37b1ab58b891"
+          }
+        },
+        {
+          "client_id": "320842873512-ukc2qfoso3bo5htbmpk9q5ncv144sogh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Mb104EvCknudncqwNWgqwC4kKVrIFss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320842873512-ukc2qfoso3bo5htbmpk9q5ncv144sogh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
